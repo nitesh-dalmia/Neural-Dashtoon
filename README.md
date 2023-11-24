@@ -1,2 +1,2 @@
-# Neural-Dashtoon
-My submission for Dashtoon Generative AI Role Assignment
+# NST
+Submission for a Placement Test Assignment
